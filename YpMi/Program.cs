@@ -44,7 +44,7 @@ namespace YpMi
             if (q == "2")
             {
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("Результат деления = {0}", a / b);
+                Console.WriteLine("Результат деления = {0}", a / b)
             }
         }
     }
