@@ -12,7 +12,7 @@ namespace YpMi
         {
             Console.ForegroundColor = ConsoleColor.Magenta;
 
-            Console.WriteLine("Консольный калькулятор (версия 1.0)");
+            Console.WriteLine("Консольный калькулятор");
             Console.WriteLine(' ');
 
             Console.ForegroundColor = ConsoleColor.Cyan;
