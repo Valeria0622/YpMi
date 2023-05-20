@@ -41,10 +41,10 @@ namespace YpMi
             b = double.Parse(Console.ReadLine());
             Console.WriteLine(' ');
 
-            if (q == "1")
+            if (q == "2")
             {
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("Результат умножения = {0}", a * b);
+                Console.WriteLine("Результат деления = {0}", a / b);
             }
         }
     }
