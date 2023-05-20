@@ -30,12 +30,12 @@ namespace YpMi
 
             Console.WriteLine(' ');
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Введите первое значение");
+            Console.WriteLine("Введите первое число");
             Console.ForegroundColor = ConsoleColor.Red;
 
             a = double.Parse(Console.ReadLine());
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Введите второе значение");
+            Console.WriteLine("Введите второе число");
             Console.ForegroundColor = ConsoleColor.Red;
 
             b = double.Parse(Console.ReadLine());
